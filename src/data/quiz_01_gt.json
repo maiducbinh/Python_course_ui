@@ -1,0 +1,218 @@
+{
+  "_id": {
+    "$oid": "682365642d452214ae375ff1"
+  },
+  "topic": "01_gt",
+  "questions": [
+    {
+      "question": "Python được phát triển bởi ai?",
+      "answers": [
+        {
+          "answer": "A) James Gosling",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Guido van Rossum",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Dennis Ritchie",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Bjarne Stroustrup",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Python ra đời vào năm nào?",
+      "answers": [
+        {
+          "answer": "A) 1991",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) 1985",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) 2000",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) 1995",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Ưu điểm nổi bật của Python là gì?",
+      "answers": [
+        {
+          "answer": "A) Hiệu suất xử lý cao nhất",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Khả năng làm game tốt nhất",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Cú pháp đơn giản, dễ đọc",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Bắt buộc phải khai báo biến",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Để bắt đầu lập trình Python, người dùng cần:",
+      "answers": [
+        {
+          "answer": "A) Mua license từ Python Foundation",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Cài đặt Visual Basic",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Cài trình thông dịch Python",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Kết nối với Internet liên tục",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Python thuộc loại ngôn ngữ nào?",
+      "answers": [
+        {
+          "answer": "A) Hướng đối tượng",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) Máy tính thấp",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Hợp ngữ",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Dịch trực tiếp ra mã máy",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Đâu là một công cụ thường dùng để viết mã Python?",
+      "answers": [
+        {
+          "answer": "A) Microsoft Word",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Notepad++",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Jupyter Notebook",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Excel",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Python có thể ứng dụng trong lĩnh vực nào dưới đây?",
+      "answers": [
+        {
+          "answer": "A) Phân tích dữ liệu",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Trí tuệ nhân tạo",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Phát triển web",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Tất cả các đáp án trên",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    },
+    {
+      "question": "Trình thông dịch Python có thể tải từ đâu?",
+      "answers": [
+        {
+          "answer": "A) python.org",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) github.com",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) java.com",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) stackoverflow.com",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Tại sao Python phổ biến trong AI?",
+      "answers": [
+        {
+          "answer": "A) Vì nó là ngôn ngữ biên dịch",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Vì nó có nhiều thư viện hỗ trợ",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Vì nó chạy rất chậm",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Vì nó không cần viết code",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Khi nói “Python là ngôn ngữ thông dịch”, điều đó có nghĩa là gì?",
+      "answers": [
+        {
+          "answer": "A) Python chạy trực tiếp mã máy",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Python dịch sang Java rồi mới chạy",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Python được biên dịch sang C++",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Python chạy từng dòng mã qua trình thông dịch",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    }
+  ]
+}

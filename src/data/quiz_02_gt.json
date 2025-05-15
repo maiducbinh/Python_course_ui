@@ -1,0 +1,218 @@
+{
+  "_id": {
+    "$oid": "682367752d452214ae375ff5"
+  },
+  "topic": "02_cb",
+  "questions": [
+    {
+      "question": "Biến trong Python được khai báo như thế nào?",
+      "answers": [
+        {
+          "answer": "A) Dùng từ khóa 'var'",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Không cần khai báo kiểu dữ liệu",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Dùng dấu $ trước biến",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Phải khai báo kiểu dữ liệu",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Kiểu dữ liệu 'int' trong Python đại diện cho gì?",
+      "answers": [
+        {
+          "answer": "A) Giá trị logic",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Số thực",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Số nguyên",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Chuỗi ký tự",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Ký hiệu để tạo chuỗi trong Python là gì?",
+      "answers": [
+        {
+          "answer": "A) Dấu ngoặc vuông",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Dấu nháy đơn hoặc kép",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Dấu ngoặc tròn",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Dấu chấm phẩy",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Cách viết chú thích trên một dòng trong Python là:",
+      "answers": [
+        {
+          "answer": "A) Bắt đầu bằng dấu //",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Bắt đầu bằng dấu #",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Bắt đầu bằng dấu /**",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Không cần ký hiệu",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Câu lệnh if được dùng để:",
+      "answers": [
+        {
+          "answer": "A) Kiểm tra điều kiện",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) Lặp lại đoạn mã",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Nhập dữ liệu",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Định nghĩa hàm",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Câu lệnh nào dùng để lặp lại một khối lệnh với điều kiện?",
+      "answers": [
+        {
+          "answer": "A) while",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) print",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) break",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) if",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Lệnh input() dùng để:",
+      "answers": [
+        {
+          "answer": "A) Thoát khỏi chương trình",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Hiển thị dữ liệu",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Nhận dữ liệu từ người dùng",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Tạo biến",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Một hàm lambda trong Python là gì?",
+      "answers": [
+        {
+          "answer": "A) Hàm chỉ dùng trong vòng lặp",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Hàm có tham số cố định",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Hàm ẩn danh ngắn gọn",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Hàm có tên cụ thể",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Câu lệnh để import module có sẵn là:",
+      "answers": [
+        {
+          "answer": "A) import math",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) include math",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) using math",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) module math",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Để xử lý ngoại lệ ta dùng khối lệnh nào?",
+      "answers": [
+        {
+          "answer": "A) try - except",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) switch - case",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) for - while",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) if - else",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    }
+  ]
+}

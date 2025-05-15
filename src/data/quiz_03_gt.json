@@ -1,0 +1,218 @@
+{
+  "_id": {
+    "$oid": "682368892d452214ae375ff7"
+  },
+  "topic": "03_ctdl",
+  "questions": [
+    {
+      "question": "Cấu trúc dữ liệu List trong Python có đặc điểm gì?",
+      "answers": [
+        {
+          "answer": "A) Có thể thay đổi và có thứ tự",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) Không thể chứa các phần tử lặp lại",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Không thể thay đổi và không có thứ tự",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Chỉ chứa số nguyên",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Set trong Python có đặc điểm nổi bật nào?",
+      "answers": [
+        {
+          "answer": "A) Có thể chứa phần tử giống nhau",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Hỗ trợ truy cập bằng chỉ số",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Có thứ tự cố định",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Không chứa phần tử trùng lặp",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    },
+    {
+      "question": "Kiểu dữ liệu Dictionary dùng để:",
+      "answers": [
+        {
+          "answer": "A) Tạo số ngẫu nhiên",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Lưu danh sách có thứ tự",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Lưu trữ cặp khóa - giá trị",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Tạo vòng lặp",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Deque là gì trong Python?",
+      "answers": [
+        {
+          "answer": "A) Một kiểu dữ liệu không thể thay đổi",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Một loại List chỉ đọc",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Một dạng Dictionary mở rộng",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Hàng đợi hai đầu",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    },
+    {
+      "question": "Tuple khác List ở điểm nào?",
+      "answers": [
+        {
+          "answer": "A) Không thể thay đổi giá trị sau khi tạo",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) Có thể chứa phần tử trùng",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Có thể thay đổi",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Hỗ trợ thêm và xoá phần tử",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Frozenset là:",
+      "answers": [
+        {
+          "answer": "A) List đặc biệt",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Một Tuple đặc biệt",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Set không thể thay đổi",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Set có thứ tự",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Chuỗi (String) trong Python là kiểu dữ liệu:",
+      "answers": [
+        {
+          "answer": "A) Chỉ hỗ trợ tiếng Anh",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Có thể thay đổi",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Không thể thay đổi",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Chứa số nguyên",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Phép toán nào được dùng để truy xuất phần tử trong List?",
+      "answers": [
+        {
+          "answer": "A) Giá trị khóa",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Tên phần tử",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Vòng lặp",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Chỉ số (index)",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    },
+    {
+      "question": "Hàm nào dùng để thêm phần tử vào Set?",
+      "answers": [
+        {
+          "answer": "A) extend()",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) append()",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) insert()",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) add()",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    },
+    {
+      "question": "Hàm nào dùng để duyệt qua từng phần tử trong Dictionary?",
+      "answers": [
+        {
+          "answer": "A) for key in dict",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) while key in dict",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) switch dict",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) if key in dict",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "slide1": "Xin chào cậu nhé Tớ là Ami, hôm nay chúng ta sẽ cùng nhau ôn tập một số câu hỏi thú vị nha 💖\nMình bắt đầu với câu số 1 nhé:\n ✅ Câu 1: Biến trong Python được khai báo như thế nào?\nĐáp án đúng: B) Không cần khai báo kiểu dữ liệu \nGiải thích: Python là ngôn ngữ động (dynamic typed), không yêu cầu khai báo kiểu dữ liệu. Chỉ cần gán giá trị là biến sẽ được tạo, ví dụ: x = 10.",
+  "slide2": "Câu 2: Kiểu dữ liệu 'int' trong Python đại diện cho gì?\nĐáp án đúng: C) Số nguyên\nGiải thích: int là viết tắt của integer, đại diện cho các số nguyên như -1, 0, 42. Đây là một trong những kiểu dữ liệu cơ bản trong Python.",
+  "slide3": "Câu 3: Ký hiệu để tạo chuỗi trong Python là gì?\nĐáp án đúng: B) Dấu nháy đơn hoặc kép\nGiải thích: Python cho phép tạo chuỗi bằng cả nháy đơn và nháy kép. Ví dụ: 'Hello' hoặc \"World\" đều là chuỗi hợp lệ."
+}

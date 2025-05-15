@@ -1,0 +1,218 @@
+{
+  "_id": {
+    "$oid": "682368f62d452214ae375ff9"
+  },
+  "topic": "04_hdt",
+  "questions": [
+    {
+      "question": "Lớp (class) trong Python là gì?",
+      "answers": [
+        {
+          "answer": "A) Biến đặc biệt",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Hàm chứa nhiều dòng",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Kiểu dữ liệu nguyên thủy",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Mẫu để tạo đối tượng",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    },
+    {
+      "question": "Để tạo đối tượng từ lớp, ta dùng cú pháp nào?",
+      "answers": [
+        {
+          "answer": "A) class()",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Tên_lớp()",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) object.new()",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) init()",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Phương thức khởi tạo trong lớp Python là:",
+      "answers": [
+        {
+          "answer": "A) init",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) main",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) create",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) start",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Kế thừa trong Python cho phép:",
+      "answers": [
+        {
+          "answer": "A) Lớp cha kế thừa lớp con",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Chỉ dùng trong module",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Lớp con sử dụng thuộc tính và phương thức lớp cha",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Lớp con ghi đè tất cả hàm của lớp cha",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Tính đóng gói (encapsulation) là gì?",
+      "answers": [
+        {
+          "answer": "A) Tự động lưu dữ liệu vào tệp",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Gộp nhiều class vào một file",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Ẩn chi tiết bên trong và chỉ cho phép truy cập thông qua phương thức",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "D) Tăng tốc độ chương trình",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Đa hình (polymorphism) nghĩa là:",
+      "answers": [
+        {
+          "answer": "A) Chỉ dùng cho lớp cha",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Một phương thức có thể hoạt động khác nhau tùy đối tượng",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Không cho phép ghi đè phương thức",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Chỉ có một dạng phương thức",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Tính trừu tượng giúp lập trình viên:",
+      "answers": [
+        {
+          "answer": "A) Tập trung vào hành vi thay vì chi tiết thực thi",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "B) Ẩn hoàn toàn code khỏi người dùng",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Tạo lớp dễ hơn",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Giao tiếp trực tiếp với hệ điều hành",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Thuộc tính trong lớp là gì?",
+      "answers": [
+        {
+          "answer": "A) Tham số hàm",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Biến lưu trữ trạng thái của đối tượng",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Thư viện của Python",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Hàm trong lớp",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Phương thức là gì trong lớp?",
+      "answers": [
+        {
+          "answer": "A) Tên biến đặc biệt",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Hàm được định nghĩa bên trong lớp",
+          "isCorrectAnswer": "true"
+        },
+        {
+          "answer": "C) Cấu trúc điều kiện",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Hàm ngoài lớp",
+          "isCorrectAnswer": "false"
+        }
+      ]
+    },
+    {
+      "question": "Từ khóa self trong lớp Python đại diện cho:",
+      "answers": [
+        {
+          "answer": "A) Biến toàn cục",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "B) Tên lớp",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "C) Hàm đặc biệt",
+          "isCorrectAnswer": "false"
+        },
+        {
+          "answer": "D) Tham chiếu đến đối tượng hiện tại",
+          "isCorrectAnswer": "true"
+        }
+      ]
+    }
+  ]
+}
