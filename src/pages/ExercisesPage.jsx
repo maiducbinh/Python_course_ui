@@ -6,7 +6,7 @@ import Footer from './Footer';
 
 const ExercisesPage = () => {
   // trạng thái mẫu
-  const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
+  const apiKey = import.meta.env.VITE_OPENAI_API_KEY;
   const [course, setCourse] = useState('python');
   const [search, setSearch] = useState('');
   const [selectedSubtopics, setSelectedSubtopics] = useState([]);
